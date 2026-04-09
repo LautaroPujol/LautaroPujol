@@ -1,9 +1,9 @@
 # 👋 Hola, soy Lautaro Pujol
 
-## 🚀 Frontend Developer en crecimiento
+## 🚀 FullStack Developer en crecimiento
 
-Desarrollador Frontend especializado en **React** y **JavaScript**, actualmente 
-expandiendo mis habilidades hacia Full Stack Development en **Coderhouse**.
+Desarrollador Fullstack, actualmente 
+expandiendo mis habilidades en Coderhouse y Udemy.
 
 Apasionado por crear aplicaciones web funcionales y modernas que resuelvan 
 problemas reales.
